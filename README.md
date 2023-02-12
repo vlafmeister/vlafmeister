@@ -10,8 +10,8 @@ From Andromeda Galaxy, temporarily lingered on planet earth I don't know how I g
 
 Languages and Tools
 
-
 ![image](https://img.shields.io/badge/-PyTorch-%23FF8C00)
+![image](https://img.shields.io/badge/-MATLAB-blue)
 ![image](https://img.shields.io/badge/-HTML-orange)
 ![image](https://img.shields.io/badge/-C%2B%2B-blue)
 ![image](https://img.shields.io/badge/-%D0%A1-blue)
