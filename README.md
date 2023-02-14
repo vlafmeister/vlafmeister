@@ -6,7 +6,7 @@ From Andromeda Galaxy, temporarily lingered on planet earth I don't know how I g
 - 🌱 I’m currently learning everything
 - 👯 I'm looking for opportunities to collaborate on <expected ideas, brilliant ideas>
 - 📫 How to reach me: tweet @vlafmeister
-- ⚡ Fun fact: The volume of all the stars in our Galaxy can be estimated from the volume of void between them.
+- ⚡ Fun fact: What am I doing here? hmm, I'm waiting for someone to invite me to work in spaceX or NASA)))
 
 Languages and Tools
 
