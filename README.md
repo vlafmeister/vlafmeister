@@ -7,7 +7,7 @@ From Andromeda Galaxy, temporarily lingered on planet earth I don't know how I g
 - 👯 I'm looking for opportunities to collaborate on <expected ideas, brilliant ideas>
 - 📫 How to reach me: tweet @vlafmeister or you can find me here https://discord.gg/Vx7Y4z6Tjj
 - ⚡ Fun fact: What am I doing here? hmm, I'm waiting for someone to invite me to work in spaceX or NASA)))
-- I want to make an ecosystem))
+
 
 Languages and Tools
 
